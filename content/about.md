@@ -1,6 +1,7 @@
 ---
-title: "About"
-date: "2016-05-05T21:48:51-07:00"
+title: "Sobre"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Esta página reune informações sobre o projeto temático FAPESP `2018/04654-9` com título "Séries Temporais, Ondaletas e Dados de Alta Dimensão".
+
+A página foi construída usando o pacote [**blogdown**](https://github.com/rstudio/blogdown). O tema da página foi originalmente feito por [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) e modificado por [Yihui Xie](https://github.com/yihui/hugo-lithium).
