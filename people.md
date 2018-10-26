@@ -1,5 +1,6 @@
 ---
-title: "Pessoas"
+title: "People"
+layout: default
 ---
 
 ## Pesquisador Responsável
