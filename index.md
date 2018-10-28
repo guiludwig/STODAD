@@ -4,3 +4,7 @@
 
 layout: default
 ---
+
+## Project Members
+
+See [People]({{site.people | relative_url}})

@@ -18,13 +18,15 @@ email: gvludwig@ime.unicamp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Projeto temático FAPESP 2018/04654-9
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://guiludwig.github.io/STODAD/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://guiludwig.github.io/STODAD"
+people: people
+twitter_username: gvludwig
+github_username: guiludwig
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+github: [metadata]
 plugins:
   - jekyll-feed
 
