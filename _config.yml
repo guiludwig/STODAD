@@ -17,7 +17,7 @@ title: Séries Temporais, Ondaletas e Dados de Alta Dimensão
 email: gvludwig@ime.unicamp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Projeto temático FAPESP 2018/04654-9
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/STODAD" # the subpath of your site, e.g. /blog
 url: "https://guiludwig.github.io/STODAD"
 people: people
 twitter_username: gvludwig
