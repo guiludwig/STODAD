@@ -1,4 +1,6 @@
-[Time Series, Wavelets and High Dimensioal Data]{}
+## Time Series, Wavelets and High Dimensioal Data
+
+**See this list in portuguese clicking [here](temas_PORT.md).**
 
 -   Autocorrelation Functions in Long Memory Processes
 
