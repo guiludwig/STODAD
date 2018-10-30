@@ -28,7 +28,7 @@
 
 -   Phylogenetic Trees and Precision Medicine
 
--   Quasi $U$-Statistics
+-   Quasi *U*-Statistics
 
 -   Sazonality in High-Frequency Data
 

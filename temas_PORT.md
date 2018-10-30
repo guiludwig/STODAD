@@ -37,7 +37,7 @@
 
 -   Novas Metodologias em Deformação de Espaços Temporais
 
--   Quase $U$-Estatísticas
+-   Quase *U*-Estatísticas
 
 -   Sazonalidade em Dados de Alta Freqüência
 
