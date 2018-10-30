@@ -1,19 +1,18 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
 ## Introduction
 
 This project is a natural follow-up to the thematic project
-**2013/00506-1** entitled **Séries Temporais, Ondaletas e Análise de
+*2013/00506-1* entitled **Séries Temporais, Ondaletas e Análise de
 Dados Funcionais**, from 01/07/2013 to 30/06/2018. The methodologies
 have potential and effective application to Medicine, Biology, Physics,
 Chemistry, Finance, Engineering, etc. These methods should solve
 theoretical and applied problems on the following topics: (1)
-Generalizations of ARMA models; (2) Wavelets; (3) Quasi $U$-statistics;
+Generalizations of ARMA models; (2) Wavelets; (3) Quasi *U*-statistics;
 (4) Outliers in time series; (5) Financial Volatilty, including high
 frequency data; (6) Functional data analysis; (7) High dimensional data,
 with emphasis in time series, spatial data, financial series, satellite
@@ -34,8 +33,8 @@ scientific collaborations will happen.
 
 ## Project Members
 
-See [People]({{site.people | site.url}}).
+See [People]({{ site.people | site.url}}).
 
 ## Research
 
-See [Research Themes]({{site.temas | site.url}}).
+See [Research Themes]({{ site.temas | site.url}}).

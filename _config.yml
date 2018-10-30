@@ -21,6 +21,7 @@ baseurl: "/STODAD" # the subpath of your site, e.g. /blog
 url: "https://guiludwig.github.io"
 people: people
 bolsas: bolsas
+temas: themes_ENG
 twitter_username: gvludwig
 github_username: guiludwig
 
