@@ -4,6 +4,8 @@
 layout: default
 ---
 
+*See this page in portuguese clicking [here](index_PORT.md).*
+
 ## Introduction
 
 This project is a natural follow-up to the thematic project

@@ -1,6 +1,6 @@
-[Séries Temporais, Ondaletas e Dados de Alta Dimensão]{}
+## Séries Temporais, Ondaletas e Dados de Alta Dimensão
 
-**Veja a lista de temas em inglês clicando [aqui](temas_ENG.md).**
+*Veja a lista de temas em inglês clicando [aqui](temas_ENG.md).*
 
 -   Árvores Filogenéticas e Medicina de Precisão
 

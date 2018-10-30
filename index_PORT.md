@@ -1,22 +1,26 @@
-[Séries Temporais, Ondaletas e Dados de Alta Dimensão ]{}
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
 
-[Pesquisador Responsável: Pedro Alberto Morettin]{}
+**Pesquisador Responsável:** Pedro Alberto Morettin
 
-Instituição Sede: Instituto de Matemática e Estatística, Universidade de
+**Instituição Sede:** Instituto de Matemática e Estatística, Universidade de
 São Paulo
 
 Projeto Temático FAPESP 2018/04654-9
 
-[Resumo]{}
+## Resumo
 
-O projeto é uma progressão natural do projeto temático [13/00506-1]{}
-intitulado [**Séries Temporais, Ondaletas e Análise de Dados
-Funcionais**]{}, de 01/07/2013 a 30/06/2018. As metodologias têm
+O projeto é uma progressão natural do projeto temático *2013/00506-1*
+intitulado **Séries Temporais, Ondaletas e Análise de Dados Funcionais**, 
+de 01/07/2013 a 30/06/2018. As metodologias têm
 aplicações potenciais e efetivas em áreas como Medicina, Biologia,
 Física, Química, Finanças, Engenharias etc.. Elas devem resolver
 problemas teóricos e aplicados, nos seguintes tópicos, que estão
 fortemente ligados: (1) Generalizações de modelos ARMA; (2) Ondaletas;
-(3) Quase $U$-Estatísticas; (4) Valores extremos em séries temporais;
+(3) Quase *U*-Estatísticas; (4) Valores extremos em séries temporais;
 (5) Estimação da volatilidades de ativos financeiros, incluisive com
 dados de alta frequência; (6) Análise de dados funcionais; (7) Dados de
 alta dimensão, com ênfase em séries temporais, dados espaciais,
@@ -35,3 +39,11 @@ reunirão estudantes avançados de graduação e de pós com pesquisadores do
 projeto e convidados nacionais e internacionais para a apresentação de
 minicursos, do estado da arte, problemas em aberto, proposta de soluções
 e avanço e/ou início de parcerias.
+
+## Membros do Projeto
+
+Veja [Pessoas]({{ site.people | site.url}}).
+
+## Pesquisa
+
+Veja [Temas de Pesquisa]({{ site.temas | site.url}}).
