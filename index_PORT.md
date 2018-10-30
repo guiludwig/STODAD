@@ -47,3 +47,5 @@ Veja [Pessoas]({{ site.people | site.url}}).
 ## Pesquisa
 
 Veja [Temas de Pesquisa]({{ site.temas | site.url}}).
+
+*Veja esta página em inglês clicando [aqui](index.md).*

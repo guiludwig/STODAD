@@ -4,7 +4,12 @@
 layout: default
 ---
 
-*See this page in portuguese clicking [here](index_PORT.md).*
+**Project Manager:** Pedro Alberto Morettin
+
+**Institution:** Instituto de Matemática e Estatística, Universidade de
+São Paulo
+
+Thematic Project FAPESP 2018/04654-9
 
 ## Introduction
 
@@ -40,3 +45,5 @@ See [People]({{ site.people | site.url}}).
 ## Research
 
 See [Research Themes]({{ site.temas | site.url}}).
+
+*See this page in portuguese clicking [here](index_PORT.md).*
