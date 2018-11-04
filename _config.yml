@@ -27,6 +27,9 @@ labs: labs
 twitter_username: gvludwig
 github_username: guiludwig
 
+image:
+  background: url('{{ site.baseurl }}/img/wc.png');
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
