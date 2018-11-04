@@ -1,6 +1,4 @@
-## Séries Temporais, Ondaletas e Dados de Alta Dimensão
-
-*Veja a lista de temas em inglês clicando [aqui](temas_ENG.md).*
+﻿## Séries Temporais, Ondaletas e Dados de Alta Dimensão
 
 -   Árvores Filogenéticas e Medicina de Precisão
 
@@ -16,8 +14,7 @@
 
 -   Estimação Indireta de Modelos tVARMA
 
--   Estimação/Previsão de Volatilidade para Dados Financeiros de Alta
-    Dimensão
+-   Estimação/Previsão de Volatilidade para Dados Financeiros de Alta Dimensão
 
 -   Metodologias para o Estudo de Aglomerados em Dados Funcionais
 
@@ -44,3 +41,5 @@
 -   Séries Temporais Financeiras
 
 -   Vigilância Epidemiológica - Novos Modelos e Detecção de Mudanças
+
+*Veja a lista de temas em inglês clicando [aqui](temas_ENG.md).*

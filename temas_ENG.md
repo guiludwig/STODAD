@@ -1,7 +1,5 @@
 ## Time Series, Wavelets and High Dimensioal Data
 
-*See this list in portuguese clicking [here](temas_PORT.md).*
-
 -   Autocorrelation Functions in Long Memory Processes
 
 -   Covariance Function Estimation by Spatial Deformations
@@ -40,7 +38,8 @@
 
 -   Structural Decomposition for Space-Time Models
 
--   Volatility Estimation and Prediction for High-Dimensional Financial
-    Data
+-   Volatility Estimation and Prediction for High-Dimensional Financial Data
 
 -   Wavelet Functional Data Aalysis
+
+*See this list in portuguese clicking [here](temas_PORT.md).*

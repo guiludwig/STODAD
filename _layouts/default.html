@@ -22,7 +22,7 @@
   <body>
     <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
-    <header class="page-header" role="banner">
+    <header class="page-header" role="banner" style="background-image: url('{{ site.baseurl }}/img/wc.png');">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       <!-- {% if site.github.is_project_page %}
@@ -33,9 +33,11 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
 	{% endif %}
 	<a href="{{ site.baseurl | site.url }}" class="btn">Principal</a>
-	<a href="{{ site.people | relative_url }}" class="btn">Pessoas</a>
+	<a href="{{ site.people | relative_url }}" class="btn">Pesquisadores</a>
+	<a href="{{ site.students | relative_url }}" class="btn">Alunos</a>
 	<a href="{{ site.temas | relative_url }}" class="btn">Temas de Pesquisa</a>
-	<a href="{{ site.bolsas | relative_url }}" class="btn">Bolsas</a>
+	<a href="{{ site.bolsas | relative_url }}" class="btn">Oportunidades</a>
+	<a href="{{ site.labs | relative_url }}" class="btn">Laborat&oacute;rios</a>
     </header>
 
     <main id="content" class="main-content" role="main">
