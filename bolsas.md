@@ -9,7 +9,7 @@ layout: default
 2. Dynamic mixed frequency pooled copula
 3. Estimação e previsão de volatilidade para dados financeiros de alta dimensão através de fatores dinâmicos
 4. Estudo de aglomerados em dados funcionais
-5. 
+5. Análise de dados funcionais por Ondaletas: algumas aplicações
 
 ## Bolsas de doutorado direto
 
