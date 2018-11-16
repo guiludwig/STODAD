@@ -38,6 +38,22 @@
 	<a href="{{ site.temas | relative_url }}" class="btn">Temas de Pesquisa</a>
 	<a href="{{ site.bolsas | relative_url }}" class="btn">Bolsas</a>
 	<!-- <a href="{{ site.labs | relative_url }}" class="btn">Laborat&oacute;rios</a> -->
+
+        <ul>
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+          <li>
+            <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+          </li>
+        {% endfor %}
+        
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <li>
+            <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          </li>
+        {% endfor %}
+        </ul>
     </header>
 
     <main id="content" class="main-content" role="main">
