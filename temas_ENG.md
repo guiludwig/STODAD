@@ -1,4 +1,4 @@
-## Time Series, Wavelets and High Dimensioal Data
+## Time Series, Wavelets and High Dimensional Data
 
 -   Autocorrelation Functions in Long Memory Processes
 

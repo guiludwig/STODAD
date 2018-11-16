@@ -1,7 +1,9 @@
----
-title: "People"
+﻿---
+title: "Alunos"
 layout: default
 ---
+
+## Alunos
 
 * Mariana Damião Valim (Unicamp)
 * Rodney Fonseca (Unicamp)
