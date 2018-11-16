@@ -13,18 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Séries Temporais, Ondaletas e Dados de Alta Dimensão
-email: gvludwig@ime.unicamp.br
-description: >- # this means to ignore newlines until "baseurl:"
-  Projeto temático FAPESP 2018/04654-9
-baseurl: "/STODAD" # the subpath of your site, e.g. /blog
-url: "https://guiludwig.github.io"
-people: people
-students: students
-bolsas: bolsas
-temas: temas_PORT
-twitter_username: gvludwig
-github_username: guiludwig
+t: 
+  en:
+    title: Time Series, Wavelets and High Dimensional Data
+    email: gvludwig@ime.unicamp.br
+    description: >- # this means to ignore newlines until "baseurl:"
+      Thematic Project FAPESP 2018/04654-9
+    baseurl: "/STODAD" # the subpath of your site, e.g. /blog
+    url: "https://guiludwig.github.io"
+    people: people
+    students: students
+    bolsas: bolsas
+    temas: temas_PORT
+    github_username: guiludwig
+  pt:
+    title: Séries Temporais, Ondaletas e Dados de Alta Dimensão
+    email: gvludwig@ime.unicamp.br
+    description: >- # this means to ignore newlines until "baseurl:"
+      Projeto temático FAPESP 2018/04654-9
+    baseurl: "/STODAD" # the subpath of your site, e.g. /blog
+    url: "https://guiludwig.github.io"
+    people: people
+    students: students
+    bolsas: bolsas
+    temas: temas_EG
+    github_username: guiludwig
 
 image:
   background: url('{{ site.baseurl }}/img/wc.png');
