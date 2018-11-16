@@ -1,7 +1,8 @@
-﻿---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---
 layout: default
+title: Principal
+lang: pt
+ref: index
 ---
 
 **Pesquisador Responsável:** Pedro Alberto Morettin
