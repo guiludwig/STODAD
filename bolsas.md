@@ -5,6 +5,8 @@ layout: default
 
 ## Bolsas de p&oacute;s-doutoramento
 
+[Mais sobre bolsas de pós-doutoramento aqui](PD_advertisement.md)
+
 1. Estimadores de cópulas que preservam a forma
 2. Dynamic mixed frequency pooled copula
 3. Estimação e previsão de volatilidade para dados financeiros de alta dimensão através de fatores dinâmicos
