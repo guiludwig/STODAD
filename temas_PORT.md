@@ -1,4 +1,4 @@
-﻿## Séries Temporais, Ondaletas e Dados de Alta Dimensão
+## Séries Temporais, Ondaletas e Dados de Alta Dimensão
 
 -   Árvores Filogenéticas e Medicina de Precisão
 
@@ -12,7 +12,7 @@
 
 -   Estimação de Funções de Covariância por Deformação Espacial
 
--   Estimação Indireta de Modelos tVARMA
+-   Estimação Indireta de Modelos de Séries Temporais
 
 -   Estimação/Previsão de Volatilidade para Dados Financeiros de Alta Dimensão
 

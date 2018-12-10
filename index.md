@@ -4,46 +4,48 @@
 layout: default
 ---
 
-**Project Manager:** Pedro Alberto Morettin
+**Pesquisador Responsável:** Pedro Alberto Morettin
 
-**Institution:** Instituto de Matemática e Estatística, Universidade de
+**Instituição Sede:** Instituto de Matemática e Estatística, Universidade de
 São Paulo
 
-Thematic Project FAPESP 2018/04654-9
+Projeto Temático FAPESP 2018/04654-9
 
-## Introduction
+## Resumo
 
-This project is a natural follow-up to the thematic project
-*2013/00506-1* entitled **Séries Temporais, Ondaletas e Análise de
-Dados Funcionais**, from 01/07/2013 to 30/06/2018. The methodologies
-have potential and effective application to Medicine, Biology, Physics,
-Chemistry, Finance, Engineering, etc. These methods should solve
-theoretical and applied problems on the following topics: (1)
-Generalizations of ARMA models; (2) Wavelets; (3) Quasi *U*-statistics;
-(4) Outliers in time series; (5) Financial Volatilty, including high
-frequency data; (6) Functional data analysis; (7) High dimensional data,
-with emphasis in time series, spatial data, financial series, satellite
-images, genetics, DNA sequences, microarrays and MRI.
+O projeto é uma progressão natural do projeto temático *2013/00506-1*
+intitulado **Séries Temporais, Ondaletas e Análise de Dados Funcionais**, 
+de 01/07/2013 a 30/06/2018. As metodologias têm
+aplicações potenciais e efetivas em áreas como Medicina, Biologia,
+Física, Química, Finanças, Engenharias etc.. Elas devem resolver
+problemas teóricos e aplicados, nos seguintes tópicos, que estão
+fortemente ligados: (1) Generalizações de modelos ARMA; (2) Ondaletas;
+(3) Quase *U*-Estatísticas; (4) Valores extremos em séries temporais;
+(5) Estimação da volatilidades de ativos financeiros, incluisive com
+dados de alta frequência; (6) Análise de dados funcionais; (7) Dados de
+alta dimensão, com ênfase em séries temporais, dados espaciais,
+financeiros, imagens de satétile, genética, sequências de DNA,
+microarrays e MRI.
 
-Results will be published in international journals with selective
-editorial policies and shall be presented in scientific conferences.
-Forming human resources is one of our main concerns. For this effect we
-will supervise pos-docs, undergraduate research assistantships, master
-theses and PhD dissertations. Seminars will be held regularly, in which
-the presentation of results, exchange of ideas, and where prospective
-talents may get acquainted with these research areas. In order to bring
-a serious push in this area in Brazil we will held workshops, which will
-reunite every year international and Brazilian guest speakers, the
-project team, advanced undergraduate and graduate students. State of the
-art and open problems will be discussed, and new and/or established
-scientific collaborations will happen.
+Os resultados serão publicados em periódicos de circulação internacional
+com seletivas políticas editoriais e apresentados em eventos
+científicos. A formação de material humano dar-se-á pela supervisão de
+pós-doutoramentos, iniciação científica, doutorado e mestrado.
+Seminários serão uma forma de disseminação de resultados, trocas de
+idéias iniciais, intercâmbio e captação de novos talentos, motivada pelo
+potencial de aplicação das metodologias. Pretendemos, para um novo salto
+qualitativo e quantitativo da área, constituir escolas que, anualmente,
+reunirão estudantes avançados de graduação e de pós com pesquisadores do
+projeto e convidados nacionais e internacionais para a apresentação de
+minicursos, do estado da arte, problemas em aberto, proposta de soluções
+e avanço e/ou início de parcerias.
 
-## Project Members
+## Membros do Projeto
 
-See [People]({{ site.people | site.url}}).
+Veja [Pessoas]({{ site.people | site.url}}).
 
-## Research
+## Pesquisa
 
-See [Research Themes]({{ site.temas | site.url}}).
+Veja [Temas de Pesquisa]({{ site.temas | site.url}}).
 
-*See this page in portuguese clicking [here](index_PORT.md).*
+*Veja esta página em inglês clicando [aqui](index.md).*

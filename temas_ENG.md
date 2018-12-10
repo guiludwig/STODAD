@@ -1,4 +1,4 @@
-## Time Series, Wavelets and High Dimensioal Data
+## Time Series, Wavelets and High Dimensional Data
 
 -   Autocorrelation Functions in Long Memory Processes
 
@@ -12,11 +12,9 @@
 
 -   Functional Data Conglomerates
 
--   Generalized GARMA Models
-
 -   Generalized Transformed ARMA Models
 
--   Indirect Estimation of tVARMA Models
+-   Indirect Estimation of Time Series Models
 
 -   Minimum Variance High-Dimensioal Portfolios
 
@@ -40,6 +38,6 @@
 
 -   Volatility Estimation and Prediction for High-Dimensional Financial Data
 
--   Wavelet Functional Data Aalysis
+-   Wavelet Functional Data Analysis
 
 *See this list in portuguese clicking [here](temas_PORT.md).*
