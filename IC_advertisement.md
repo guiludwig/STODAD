@@ -41,3 +41,5 @@
 
     2.  Questions regarding Undergraduate Research Scholarships (IC):
         Please specify in a clear and synthetic way your questions.
+
+*See this page in portuguese clicking [here](IC_advertisement_PORT.md).*
