@@ -41,3 +41,5 @@
 
     2.  Questions regarding PhD Scholarships (DD):
         Please specify in a clear and synthetic way your questions.
+
+*See this page in portuguese clicking [here](DD_advertisement_PORT.md).*
