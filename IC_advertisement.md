@@ -1,45 +1,48 @@
-## TOPICS:
+## Temas de Pesquisa
 
-- Covariance Function Estimation by Spatial Deformations
-- DCS Perturbations for ARFIMA Models
-- Epidemiological Vigilance - New Models and Change Detection
-- Financial Time Series
-- Functional Data Conglomerates
-- Generalized Transformed ARMA Models
-- Indirect Estimation of Time Series Models
-- Minimum Variance High-Dimensioal Portfolios
-- Neuroimaging
-- Point Process in Functional Data
-- Phylogenetic Trees and Precision Medicine
-- Quasi *U*-Statistics
-- Sazonality in High-Frequency Data
-- Spatial Confounding for Generalized Linear Models
-- Spatio-Temporal Deformations
-- Statistical Analysis of SAR Data
-- Structural Decomposition for Space-Time Models
-- Volatility Estimation and Prediction for High-Dimensional Financial Data
-- Wavelet Analysis in Statistics
-- Wavelets in Functional and High Dimensional Data Analysis
+-   Árvores Filogenéticas e Medicina de Precisão
+-   Confundimento Espacial em Modelos Lineares Generalizados
+-   Dados SAR
+-   Decomposições Estruturais em Modelos Espaço-Temporais
+-   Estimação da Função de Autocorrelação em Processos de Memória Longa
+-   Estimação de Funções de Covariância por Deformação Espacial
+-   Estimação Indireta de Modelos tVARMA
+-   Estimação/Previsão de Volatilidade para Dados Financeiros de Alta Dimensão
+-   Metodologias para o Estudo de Aglomerados em Dados Funcionais
+-   Métodos de Processos Pontuais para Dados Funcionais
+-   Modelos de Análise de Dados Funcionais por Ondaletas
+-   Modelos ARFIMA com Perturbações DCS
+-   Modelos ARMA Generalizados Transformados
+-   Modelos Generalizados Autoregressivos e Médias Móveis (GARMA)
+-   Neuroimagens
+-   Ondaletas para Dados Funcionais e de Alta Dimensão
+-   Portifólios de Alta Dimensão de Variância Mínima
+-   Novas Metodologias em Deformação de Espaços Temporais
+-   Quase $U$-Estatísticas
+-   Sazonalidade em Dados de Alta Freqüência
+-   Séries Temporais Financeiras
+-   Vigilância Epidemiológica - Novos Modelos e Detecção de Mudanças
 
-## Undergraduate Research (IC) Scholarships
+## Bolsas de Iniciação Científica
 
--   Please read carefully the available information at [http://www.fapesp.br/bolsas/](http://www.fapesp.br/bolsas/),
-    [http://www.fapesp.br/248](http://www.fapesp.br/248) and [http://www.fapesp.br/normasic](http://www.fapesp.br/normasic).
+-   Favor ler atentamente as instruções, informações
+    e condições colocadas pela FAPESP em [http://www.fapesp.br/bolsas/](http://www.fapesp.br/bolsas/),
+    [http://www.fapesp.br/248](http://www.fapesp.br/248) e [http://www.fapesp.br/normasic](http://www.fapesp.br/normasic).
 
--   All questions and further communication must be sent through the
-    email address [*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br).
+-   Toda comunicação deve ser feita através do endereço
+    [*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br).
 
--   We kindly request that any message should be titled as one of the
-    following:
+-   Favor, em qualquer mensagem, especificar em seu título um dos
+    seguintes assuntos:
 
-    1.  Interested in Undergraduate Research Scholarships (IC): 
-        Please provide a current CV (pdf file), current and official academic records
-        (pdf), the research topic in which you may be interested and a brief
-        justification for such an interest. The names and addresses (postal
-        and electronic) for two people that are willing to write
-        recommendation letters on your behalf are required as well.
+    1. Interesse em Bolsa de Iniciação Científica:
+    Favor anexar o CV atualizado  (em pdf), histórico escolar atualizado 
+    (em pdf), o projeto em que estaria interessado(a) e uma breve 
+    justificativa de seu interesse. Solicitam-se tamém nomes e endereços 
+    eletrônicos de duas pessoas que possam escrever cartas de recomendação 
+    sobre sua candidatura.
 
-    2.  Questions regarding Undergraduate Research Scholarships (IC):
-        Please specify in a clear and synthetic way your questions.
+    2. Dúvida sobre Bolsa de Iniciação Científica:
+    Favor especificar de maneira clara e objetiva sua dúvida.
 
-*See this page in portuguese clicking [here](IC_advertisement_PORT.md).*
+*Veja esta página em inglês clicando [aqui](IC_advertisement_ENG.md).*
