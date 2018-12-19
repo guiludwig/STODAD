@@ -1,4 +1,4 @@
----
+﻿---
 title: "People"
 layout: default
 ---
@@ -19,7 +19,7 @@ layout: default
 - Airlane Pereira Alencar (USP)
 - Chang Chiann (USP)
 - Guilherme Vieira Nunes Ludwig (UNICAMP)
-- José Carlos Simon de Miranda (UNICAMP)
+- José Carlos Simon de Miranda (USP)
 - João Ricardo Sato (UFABC)
 - Mauricio Enrique Zevallos Herencia (UNICAMP)
 - Márcio Poletti Laurini (USP)

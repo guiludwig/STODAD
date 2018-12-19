@@ -5,11 +5,15 @@ layout: default
 
 ## Alunos
 
+* Candida Ferreira (doutorado, UFABC)
+* Fabricio Jose Dudek Kalfels (iniciação científica, USP)
 * Mariana Damião Valim (Unicamp)
+* Moizes da Silva Melo (doutorado, USP)
+* Leonardo Gabriel da Paz (mestrado, USP)
+* Orlando Esparza Yesid Albarracin (pós-doutorando, USP)
+* Rafael Alves Heinze (mestrado, UFABC)
+* Raissa Benocci Thibes (mestrado, UFABC)
 * Rodney Fonseca (doutorado, Unicamp)
-* Shu Wei Chou (IME-USP) 
-* William Rojas (IME-USP)
-* Orlando Esparza Yesid Albarracin (pós-doc, IME-USP)
-* Moizes da Silva Melo (doutorado, IME-USP)
-* Leonardo Gabriel da Paz (mestrado, IME-USP)
-* Fabricio Jose Dudek Kalfels (ic, IME-USP)
+* Shu Wei Chou (USP) 
+* William Rojas (USP)
+* Yumi Ambriola (doutorado, UFABC)
