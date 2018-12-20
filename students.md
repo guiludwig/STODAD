@@ -17,7 +17,7 @@ layout: default
 * Rafael Alves Heinze (mestrado, UFABC)
 * Rafael Antônio Ricardi Branco (iniciação científica, UNICAMP)
 * Raissa Benocci Thibes (mestrado, UFABC)
-* Rodney Fonseca (doutorado, Unicamp)
+* Rodney Fonseca (doutorado, UNICAMP)
 * Sérgio Henrique Andrade de Azevedo (mestrado, UNICAMP)
 * Shu Wei Chou (doutorado, USP) 
 * William Rojas (doutorado, USP)
