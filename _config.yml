@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Projeto temático FAPESP 2018/04654-9
 baseurl: "/STODAD" # the subpath of your site, e.g. /blog
 url: "https://guiludwig.github.io"
-encoding: UTF-8
 people: people
 students: students
 bolsas: bolsas
