@@ -1,16 +1,15 @@
-﻿## POST-DOCTORAL FELLOWSHIPS AVAILABLE
+﻿## BOLSAS DE PÓS-DOUTORAMENTO DISPONÍVEIS
 
-The Project FAPESP 2018/04654-9: Time Series, Wavelets and High
-Dimensional Data is selecting researchers interested in doing
-investigation in the areas below, connected to the main topics of the
-project.
+O Projeto FAPESP 2018/04654-9: Séries Temporais, Ondaletas e Dados
+De Alta Dimensão está buscando pesquisadores interessados em trabalhar em
+temas de pesquisa nas áreas abaixo, conectadas com os tópicos do projeto. 
 
-The Fellowships are supported by FAPESP (Research Foundation of the
-State of São Paulo, Brazil).
+As bolsas de estudo são financiadas pela FAPESP (Fundação de Amparo à Pesquisa
+do Estado de São Paulo), Brazil. 
 
-AREA: Statistics
+ÁREA: Estatística
 
-## TOPICS:
+## Tópicos:
 
 -   Covariance Function Estimation by Spatial Deformations
 -   DCS Perturbations for ARFIMA Models
@@ -33,46 +32,48 @@ AREA: Statistics
 -   Wavelet Analysis in Statistics
 -   Wavelets in Functional and High Dimensional Data Analysis
 
-*POSITIONS STARTING IN 2019:* 3
+*VAGAS DISPONÍVEIS EM 2019:* 3
 
-DURATION: 24 months
+DURAÇÃO: 24 meses
 
-E-MAIL FOR SUBMISSION:
+E-MAIL PARA CONTATO:
 [*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br)
 
-Site for information: [*http://www.ime.unicamp.br/~STODAD*](http://www.ime.unicamp.br/~STODAD)
+Site para demais informações: [*http://www.ime.unicamp.br/~STODAD*](http://www.ime.unicamp.br/~STODAD)
 
-DETAILS: Full details can be found at
-[*http://www.fapesp.br/dc/in14*](http://www.fapesp.br/dc/in14) and links
-therein.
+REGRAS: As regras para a participação no projeto encontram-se em
+[*http://www.fapesp.br/dc/in14*](http://www.fapesp.br/dc/in14) e links
+relacionados.
 
-MONTHLY PAYMENTS: R\$ 7,373.10 (tax-free)
+PAGAMENTOS MENSAIS: R\$ 7,373.10 (sem impostos)
 
-TRAVEL AND EXPENSES: R\$26,543.16
+VIAGEM E DESPESAS: R\$26,543.16
 
-OTHER BENEFITS: Tickets (round-trip) and R\$ 7,373.10 (see rules at
+OUTROS BENEFÍCIOS: Passagens (ida-e-volta) em R\$ 7,373.10 (veja as regras em
 [*http://www.fapesp.br/dc/in14*](http://www.fapesp.br/dc/in14))
 
-We seek doctors in Statistics (or related areas) with strong research
-potential that can develop supervised work on the aforementioned topics.
-It is desirable that the candidates have proven experience in data
-analysis and computer skills. The selected researchers will work in São
-Paulo or Campinas under the supervision of one the project’s principal
-investigators.
+Buscamos Doutores em Estatística (e campos relacionados) que possam desenvolver
+trabalhos supervisionados nos tópicos listados acima. É desejável que os candidatos
+tenham experiência em análise de dados e ferramentas computacionais. Os candidatos
+selecionados deverão trabalhar em São Paulo ou Campinas sob a supervisão de um
+dos pesquisadores principais do projeto.
 
-Interested candidates should apply to
-[*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br). The application
-email should contain the following:
+Candidatos interessados deverão submeter sua aplicação no endereço
+[*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br). O e-mail de aplicação
+deverá conter os seguintes itens:
 
-(i) A letter (pdf file) explaining the candidate’s background, in which
-    topic(s) they’d like to work and the reasons why they feel they are
-    suitable for the proposed task.
+(i) Uma carta (em formato pdf) detalhando o histórico acadêmico do candidato,
+    e listando tópicos nos quais o candidato possui interesse em trabalhar,
+    e justifiquem seu interesse e habilidade para desenvolver pesquisa
+    na área escolhida.
 
-(ii) Candidate’s CV (pdf file).
+(ii) O currículo do candidato (em formato pdf).
 
-(iii) PhD dissertation summary (pdf file) and a two-page summary of
-    published works (pdf file).
+(iii) Um sumário da sua tese de Doutoramento (em formato pdf) bem como um
+    sumário de duas páginas com suas publicações científicas (em formato pdf).
 
-(iv) E-mail and postal (official university or professional) addresses
-    for two former research supervisors or course professors which are
-    willing to write recommendation letters.
+(iv) E-mail e endereço profissional de dois pesquisadores que tenham
+    anteriormente supervisionado ou lecionado cursos ao candidato, e que 
+    estejam dispostos a escrever uma carta de recomendação.
+
+*Veja esta página em inglês clicando [aqui](DD_advertisement_ENG.md).*

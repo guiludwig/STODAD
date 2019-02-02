@@ -76,3 +76,5 @@ email should contain the following:
 (iv) E-mail and postal (official university or professional) addresses
     for two former research supervisors or course professors which are
     willing to write recommendation letters.
+
+*See this page in portuguese [here](DD_advertisement.md).*
