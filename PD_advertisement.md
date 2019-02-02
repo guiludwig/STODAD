@@ -6,7 +6,7 @@ investigation in the areas below, connected to the main topics of the
 project.
 
 The Fellowships are supported by FAPESP (Research Foundation of the
-State of São Paulo, Brazil) .
+State of São Paulo, Brazil).
 
 AREA: Statistics
 
@@ -19,7 +19,7 @@ AREA: Statistics
 -   Functional Data Conglomerates
 -   Generalized Transformed ARMA Models
 -   Indirect Estimation of Time Series Models
--   Minimum Variance High-Dimensioal Portfolios
+-   Minimum Variance High-Dimensional Portfolios
 -   Neuroimaging
 -   Point Process in Functional Data
 -   Phylogenetic Trees and Precision Medicine
@@ -39,6 +39,8 @@ DURATION: 24 months
 
 E-MAIL FOR SUBMISSION:
 [*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br)
+
+Site for information: [*http://www.ime.unicamp.br/~STODAD*](http://www.ime.unicamp.br/~STODAD)
 
 DETAILS: Full details can be found at
 [*http://www.fapesp.br/dc/in14*](http://www.fapesp.br/dc/in14) and links
