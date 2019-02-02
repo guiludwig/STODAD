@@ -1,16 +1,16 @@
----
+﻿---
 title: "Bolsas"
 layout: default
 ---
 
-## Bolsas de p&oacute;s-doutoramento
+## Bolsas de pós-doutoramento
 
-[Mais sobre bolsas de pós-doutoramento aqui](PD_advertisement.md)
+Mais sobre bolsas de pós-doutoramento [aqui]({{site.pd | relative_url}})
 
 ## Bolsas de doutorado direto
 
-[Mais sobre bolsas de doutorado direto aqui](DD_advertisement.md)
+Mais sobre bolsas de doutorado direto [aqui]({{site.dd | relative_url}})
 
-## Bolsas de inicia&ccedil;&atilde;o cient&iacute;fica
+## Bolsas de iniciação científica
 
-[Mais sobre bolsas de iniciação científica aqui](IC_advertisement.md)
+Mais sobre bolsas de iniciação científica [aqui]({{site.ic | relative_url}})

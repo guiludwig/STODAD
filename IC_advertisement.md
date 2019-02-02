@@ -1,4 +1,4 @@
-## Temas de Pesquisa
+﻿## Temas de Pesquisa
 
 -   Árvores Filogenéticas e Medicina de Precisão
 -   Confundimento Espacial em Modelos Lineares Generalizados
@@ -45,4 +45,4 @@
     2. Dúvida sobre Bolsa de Iniciação Científica:
     Favor especificar de maneira clara e objetiva sua dúvida.
 
-*Veja esta página em inglês clicando [aqui](IC_advertisement_ENG.md).*
+*See this page in english clicking [here]({{site.ice | relative_url}}).*
