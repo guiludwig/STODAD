@@ -76,4 +76,4 @@ deverá conter os seguintes itens:
     anteriormente supervisionado ou lecionado cursos ao candidato, e que 
     estejam dispostos a escrever uma carta de recomendação.
 
-*Veja esta página em inglês clicando [aqui](DD_advertisement_ENG.md).*
+*See this page in english clicking [here]({{site.pde | relative_url}}).*

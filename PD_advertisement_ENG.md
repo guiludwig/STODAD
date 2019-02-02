@@ -77,4 +77,4 @@ email should contain the following:
     for two former research supervisors or course professors which are
     willing to write recommendation letters.
 
-*See this page in portuguese [here](DD_advertisement.md).*
+*Veja esta página em português clicando [aqui]({{site.pd | relative_url}}).*

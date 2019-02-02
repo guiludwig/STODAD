@@ -25,6 +25,9 @@ bolsas: bolsas
 pd: PD_advertisement
 dd: DD_advertisement
 ic: IC_advertisement
+pde: PD_advertisement_ENG
+dde: DD_advertisement_ENG
+ice: IC_advertisement_ENG
 temas: temas_PORT
 twitter_username: gvludwig
 github_username: guiludwig
