@@ -1,8 +1,8 @@
-[Workshop\
-[Time Series, Wavelets and High Dimensional Data]{}\
-University of Campinas, August 29-30, 2019]{}
+# Workshop: Time Series, Wavelets and High Dimensional Data
 
-[**Thursday, August 29, 2019**]{}
+At University of Campinas, August 29-30, 2019
+
+## Thursday, August 29, 2019
 
 13h30 Opening
 
@@ -28,7 +28,7 @@ ST2 - Time Series
 
 18h00-20h00 Poster Session
 
-[**Friday, August 30, 2019**]{}
+## Friday, August 30, 2019
 
 08h40-09h10 Coffee
 
