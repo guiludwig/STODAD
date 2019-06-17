@@ -45,5 +45,5 @@ ST2 - Time Series
 <br><br>
 
 <center>
-![Supported by FAPESP](img/FAPESP.png =701x154)
+![Supported by FAPESP](img/FAPESP.png)
 </center>
