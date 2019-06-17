@@ -1,0 +1,105 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\PassOptionsToPackage{hyphens}{url} % url is loaded by hyperref
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+\section{Workshop: Time Series, Wavelets and High Dimensional
+Data}\label{workshop-time-series-wavelets-and-high-dimensional-data}
+
+At University of Campinas, August 29-30, 2019
+
+\subsection{Thursday, August 29, 2019}\label{thursday-august-29-2019}
+
+13h30 Opening
+
+14h10-15h00 D. Stoffer (Pittsburgh)
+
+ST1 - Econometrics
+
+15h00-15h25 M. Fernandes (FGV-SP)
+
+15h25-15h50 M. Medeiros (PUC-RJ)
+
+15h50-16h15 F. Ziegelmann (UFRGS)
+
+16h20-16h40 Coffee Break
+
+ST2 - Time Series
+
+16h40-17h05 P. A. Morettin (USP)
+
+17h05-17h30 L. K. Hotta (Unicamp)
+
+17h30-17h55 C. Chiann (USP)
+
+18h00-20h00 Poster Session
+
+\subsection{Friday, August 30, 2019}\label{friday-august-30-2019}
+
+08h40-09h10 Coffee
+
+09h10-10h00 Q. Yao (LSE)
+
+10h00-10h50 J. Chang (SUFE, China)
+
+10h50-11h40 Robert Lund (Clemson)
+
+11h40-12h30 J. Fan (Princeton)
+
+12h30 Closing
+
+\end{document}

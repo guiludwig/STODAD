@@ -41,3 +41,5 @@ ST2 - Time Series
 11h40-12h30 J. Fan (Princeton)
 
 12h30 Closing
+
+![Supported by FAPESP](img/FAPESP.png)
