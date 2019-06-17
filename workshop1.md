@@ -43,5 +43,6 @@ ST2 - Time Series
 12h30 Closing
 
 <br><br>
+Supported by:
 
-![Supported by FAPESP](img/FAPESP.png)
+![FAPESP](img/FAPESP.png)
