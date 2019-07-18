@@ -47,10 +47,10 @@ Supported by:
 
 <center>
 
-![FAPESP](img/FAPESP.png)<br>
+![FAPESP](img/FAPESP.png)
 
-![FAEPEX](img/logo_faepex.jpg)<br>
+![FAEPEX](img/logo_faepex.jpg)
 
-![UNICAMP](img/logo_unicamp.jpg)<br>
+![UNICAMP](img/logo_unicamp.jpg)
 
 </center>
