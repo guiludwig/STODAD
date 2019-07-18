@@ -45,6 +45,12 @@ ST2 - Time Series
 <br><br>
 Supported by:
 
-![FAPESP](img/FAPESP.png)
-![FAEPEX](img/logo_faepex.jpg)
-![UNICAMP](img/logo_unicamp.jpg)
+<center>
+
+![FAPESP](img/FAPESP.png)<br>
+
+![FAEPEX](img/logo_faepex.jpg)<br>
+
+![UNICAMP](img/logo_unicamp.jpg)<br>
+
+</center>
