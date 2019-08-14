@@ -1,12 +1,12 @@
 # Workshop: Time Series, Wavelets and High Dimensional Data
 
-At University of Campinas, August 29-30, 2019
+At University of Campinas, August 29-30, 2019. Seats are limited, so please contact us at stodad@ime.unicamp.br to let us know which days you will attend.
 
 ## Thursday, August 29, 2019
 
 13h30 Opening
 
-14h10-15h00 D. Stoffer (Pittsburgh)
+14h10-15h00 F. Ziegelmann (UFRGS)
 
 ST1 - Econometrics
 
@@ -14,7 +14,7 @@ ST1 - Econometrics
 
 15h25-15h50 M. Medeiros (PUC-RJ)
 
-15h50-16h15 F. Ziegelmann (UFRGS)
+15h50-16h15 M. Zevallos (Unicamp)
 
 16h20-16h40 Coffee Break
 
