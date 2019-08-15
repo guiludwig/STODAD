@@ -6,63 +6,63 @@ You can read the invited speakers' presentation abstracts [here](workshop1_abstr
 
 ## Thursday, August 29, 2019
 
-13h30 Opening<br>
+13h30 Opening<br><br>
 
 14h10-15h00 F. Ziegelmann (UFRGS)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nonparametric Frontier Estimation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nonparametric Frontier Estimation<br><br>
 
 ### ST1 - Econometrics
 
 15h00-15h25 M. Fernandes (FGV-SP)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nonparametric testing of conditional independence using asymmetric kernels<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nonparametric testing of conditional independence using asymmetric kernels<br><br>
 
 15h25-15h50 M. Medeiros (PUC-RJ)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BooST: Boosting Smooth Transition Regression Trees for Partial Effect Estimation in Nonlinear Regressions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BooST: Boosting Smooth Transition Regression Trees for Partial Effect Estimation in Nonlinear Regressions<br><br>
 
 15h50-16h15 M. Zevallos (Unicamp)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimation of ARFIMA models: a minimum distance approach<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimation of ARFIMA models: a minimum distance approach<br><br>
 
-16h20-16h40 Coffee Break<br>
+16h20-16h40 Coffee Break<br><br>
 
 ### ST2 - Time Series
 
 16h40-17h05 P. A. Morettin (USP)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wavelet Estimation of Copulas for Time Series<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wavelet Estimation of Copulas for Time Series<br><br>
 
 17h05-17h30 L. K. Hotta (Unicamp)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forecasting Conditional Covariance Matrices in High-Dimensional Time Series: a General Dynamic Factor Approach<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forecasting Conditional Covariance Matrices in High-Dimensional Time Series: a General Dynamic Factor Approach<br><br>
 
 17h30-17h55 C. Chiann (USP)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimating the trace-variogram in the ordinary kriging method for functional data using Legendre-Gauss quadrature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimating the trace-variogram in the ordinary kriging method for functional data using Legendre-Gauss quadrature<br><br>
 
-18h00-20h00 Poster Session<br>
+18h00-20h00 Poster Session<br><br>
 
 ## Friday, August 30, 2019
 
-08h40-09h10 Coffee<br>
+08h40-09h10 Coffee<br><br>
 
 09h10-10h00 Q. Yao (LSE)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimation of Subgraph Densities in Noisy Networks<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimation of Subgraph Densities in Noisy Networks<br><br>
 
 10h00-10h50 J. Chang (SUFE, China)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A new scope of penalized empirical likelihood with high-dimensional estimating equations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A new scope of penalized empirical likelihood with high-dimensional estimating equations<br><br>
 
 10h50-11h40 Robert Lund (Clemson)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multiple Breakpoint Detection: Mixing Documented and Undocumented Changepoints<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multiple Breakpoint Detection: Mixing Documented and Undocumented Changepoints<br><br>
 
 11h40-12h30 J. Fan (Princeton)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noisy matrix completion: Understanding statistical errors of convex relaxation via Nonconvex optimization<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noisy matrix completion: Understanding statistical errors of convex relaxation via Nonconvex optimization<br><br>
 
 12h30 Closing
 
