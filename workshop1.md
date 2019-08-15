@@ -2,7 +2,7 @@
 
 At University of Campinas, August 29-30, 2019. Seats are limited, so please contact us at stodad@ime.unicamp.br to let us know which days you will attend.
 
-You can read the invited speakers' presentation abstracts [here](worshop1_abstract.pdf).
+You can read the invited speakers' presentation abstracts [here](workshop1_abstract.pdf).
 
 ## Thursday, August 29, 2019
 
