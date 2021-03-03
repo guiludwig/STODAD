@@ -1,11 +1,11 @@
-## POST-DOCTORAL FELLOWSHIPS AVAILABLE
+## Post-doctoral fellowships available
 
 The Project FAPESP 2018/04654-9: Time Series, Wavelets and High
 Dimensional Data is selecting researchers interested in doing
 investigation in the areas below, connected to the main topics of the
 project.
 
-The Fellowships are supported by FAPESP (Research Foundation of the
+The fellowships are supported by FAPESP (Research Foundation of the
 State of São Paulo, Brazil).
 
 **AREA: Statistics**
