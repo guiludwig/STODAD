@@ -37,7 +37,7 @@ POSITIONS STARTING IN 2021: 5
 
 DURATION: 24 months
 
-E-MAIL FOR SUBMISSION: [stodad@ime.unicamp.br](stodad@ime.unicamp.br)
+E-MAIL FOR SUBMISSION: [stodad@ime.unicamp.br](mailto:stodad@ime.unicamp.br)
 
 Site for information: [http://www.ime.unicamp.br/~STODAD](http://www.ime.unicamp.br/~STODAD)
 
@@ -60,7 +60,7 @@ analysis and computer skills. The selected researchers will work in São
 Paulo or Campinas under the supervision of one the project’s principal
 investigators.
 
-Interested candidates should apply to [stodad@ime.unicamp.br](stodad@ime.unicamp.br). The
+Interested candidates should apply to [stodad@ime.unicamp.br](mailto:stodad@ime.unicamp.br). The
 application email should contain the following:
 
 A letter (pdf file) explaining the candidate’s background, in which

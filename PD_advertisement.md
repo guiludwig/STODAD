@@ -35,7 +35,7 @@ Número de bolsas para 2021 : 5
 
 Duração: 24 meses
 
-E-MAIL para submissão: [stodad@ime.unicamp.br](stodad@ime.unicamp.br)
+E-MAIL para submissão: [stodad@ime.unicamp.br](mailto:stodad@ime.unicamp.br)
 
 Site para informação: [http://www.ime.unicamp.br/~STODAD](http://www.ime.unicamp.br/~STODAD)
 
@@ -58,7 +58,7 @@ dados e computação. O candidato selecionado trabalhará em São Paulo ou
 Campinas sob a supervisão de um dos Pesquisadores Principais do projeto.
 
 Candidatos interessados deverão inscrever-se por meio do e-mail
-[stodad@ime.unicamp.br](stodad@ime.unicamp.br), e deverão anexar:
+[stodad@ime.unicamp.br](mailto:stodad@ime.unicamp.br), e deverão anexar:
 
 Uma carta (arquivo pdf) explicando o histórico do candidato, em qual
 (quais)tópico(s) gostaria de trabalhar e razões da candidatura.
