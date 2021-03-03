@@ -75,3 +75,5 @@ works (pdf file).
 E-mail and postal (official university or professional) addresses for
 two former research supervisors or course professors which are willing
 to write recommendation letters.
+
+*Veja esta página em português clicando [aqui](PD_advertisement.md).*

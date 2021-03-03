@@ -70,3 +70,5 @@ Resumo da dissertação de doutorado do candidato (arqivo pdf) e um resumo
 
 E-mail e endereço postal de dois orientadores/supervisors ou professors
 de disciplinas que possam escrever cartas de recomendação.
+
+*See this page in english clicking [here](PD_advertisement_ENG.md).*

@@ -52,6 +52,6 @@ Veja [Temas de Pesquisa]({{ site.temas | site.url}}).
 
 ## Eventos Anteriores
 
-Workshop in Time Series, Wavelets and High Dimensional Data* ocorreu na Universidade Estadual de Campinas, entre 29 e 30 de agosto, 2019. Mais informações [aqui](workshop1.md)
+*Workshop in Time Series, Wavelets and High Dimensional Data* ocorreu na Universidade Estadual de Campinas, entre 29 e 30 de agosto, 2019. Mais informações [aqui](workshop1.md)
 
 *See this page in english clicking [here](index_ENG.md).*
