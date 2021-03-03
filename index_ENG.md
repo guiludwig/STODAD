@@ -11,7 +11,7 @@ São Paulo
 
 Thematic Project FAPESP 2018/04654-9
 
-**Announcement:** Post-doctorate research fellow positions [here]({{site.pd | relative_url}}) (*em português* [*aqui*](PD_advertisement.md)).
+**Announcement:** Post-doctorate research fellow positions [here](PD_advertisement_ENG.md) (*em português* [aqui]({{site.pd | relative_url}})).
 
 ## Introduction
 

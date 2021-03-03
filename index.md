@@ -11,7 +11,7 @@ São Paulo
 
 Projeto Temático FAPESP 2018/04654-9
 
-**Importante:** Bolsas de pós-doutorado 2021 [aqui]({{site.pd | relative_url}}) (*in english* [*here*](PD_advertisement_ENG)).
+**Importante:** Bolsas de pós-doutorado 2021 [aqui]({{site.pd | relative_url}}) (*in english* [here](PD_advertisement_ENG.md)).
 
 ## Resumo
 
