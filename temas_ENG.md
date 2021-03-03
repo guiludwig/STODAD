@@ -40,4 +40,4 @@
 
 -   Wavelet Functional Data Analysis
 
-*See this list in portuguese clicking [here](temas_PORT.md).*
+*Veja a lista de temas em português clicando [aqui](temas_PORT.md).*

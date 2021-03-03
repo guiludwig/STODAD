@@ -1,79 +1,72 @@
-﻿## BOLSAS DE PÓS-DOUTORAMENTO DISPONÍVEIS
+## Bolsa de Pós-Doutorado Disponíveis
 
-O Projeto FAPESP 2018/04654-9: Séries Temporais, Ondaletas e Dados
-De Alta Dimensão está buscando pesquisadores interessados em trabalhar em
-temas de pesquisa nas áreas abaixo, conectadas com os tópicos do projeto. 
+O Projeto FAPESP 2018/04654-9: Séries Temporais, Ondaletas e Dados de
+Alta Dimensão está selecionando pesquisadores interessados em fazer
+pesquisa nas áreas abaixo, ligadas aos tópicos principais do projeto.
 
-As bolsas de estudo são financiadas pela FAPESP (Fundação de Amparo à Pesquisa
-do Estado de São Paulo), Brazil. 
+As bolsas são concedidas pela FAPESP (Fundação de Amparo à Pesquisa do
+Estado de São Paulo).
 
-ÁREA: Estatística
+**ÁREA: Estatística**
 
-## Tópicos:
+TOPICOS:
 
--   Covariance Function Estimation by Spatial Deformations
--   DCS Perturbations for ARFIMA Models
--   Epidemiological Vigilance - New Models and Change Detection
--   Financial Time Series
--   Functional Data Conglomerates
--   Generalized Transformed ARMA Models
--   Indirect Estimation of Time Series Models
--   Minimum Variance High-Dimensional Portfolios
--   Neuroimaging
--   Point Process in Functional Data
--   Phylogenetic Trees and Precision Medicine
--   Quasi *U*-Statistics
--   Sazonality in High-Frequency Data
--   Spatial Confounding for Generalized Linear Models
--   Spatio-Temporal Deformations
--   Statistical Analysis of SAR Data
--   Structural Decomposition for Space-Time Models
--   Volatility Estimation and Prediction for High-Dimensional Financial Data
--   Wavelet Analysis in Statistics
--   Wavelets in Functional and High Dimensional Data Analysis
+-   Estimação de covariâncias por meio de deformação espacial
+-   Perturbações DCS para modelos ARFIMA
+-   Vigilância epidemiológica - Novos modelos e detecção de mudanças
+-   Séries temporais financeiras
+-   Conglomerados de dados funcionais
+-   Modelos ARMA generalizados transformados
+-   Estimação indireta de modelos de séries temporais
+-   Carteiras de alta dimensão de variância mínima
+-   Métodos estatísticos em Neuroimagem
+-   Processos pontuais de dados funcionais
+-   Árvores filogenéticas e medicina de precisão
+-   Quase *U*-Statistics
+-   Sazonalidade em dados de alta frequência
+-   Confundimento espacial para MLG
+-   Deformações espaço-temporais
+-   Análise estatística de dados SAR
+-   Decomposição estrutural para modelos espaço-temporais
+-   Estimação da volatilidade para dados financeiros de alta dimensão
+-   Análise de ondaletas para séries temporais funcionais e de alta dimensão
 
-*VAGAS DISPONÍVEIS EM 2019:* 3
+Número de bolsas para 2021 : 5
 
-DURAÇÃO: 24 meses
+Duração: 24 meses
 
-E-MAIL PARA CONTATO:
-[*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br)
+E-MAIL para submissão: [stodad@ime.unicamp.br](stodad@ime.unicamp.br)
 
-Site para demais informações: [*http://www.ime.unicamp.br/~STODAD*](http://www.ime.unicamp.br/~STODAD)
+Site para informação: [http://www.ime.unicamp.br/~STODAD](http://www.ime.unicamp.br/~STODAD)
 
-REGRAS: As regras para a participação no projeto encontram-se em
-[*http://www.fapesp.br/dc/in14*](http://www.fapesp.br/dc/in14) e links
-relacionados.
+Detalhes: [http://www.fapesp.br/dc/in14](http://www.fapesp.br/dc/in14) e links.
 
-PAGAMENTOS MENSAIS: R\$ 7,373.10 (sem impostos)
+Prazo para Submissão: 15 de abril de 2021.
 
-VIAGEM E DESPESAS: R\$26,543.16
+Mensalidade: R\$ 7.373,10
 
-OUTROS BENEFÍCIOS: Passagens (ida-e-volta) em R\$ 7,373.10 (veja as regras em
-[*http://www.fapesp.br/dc/in14*](http://www.fapesp.br/dc/in14))
+Viagens e despesas: R\$17.695,10
 
-Buscamos Doutores em Estatística (e campos relacionados) que possam desenvolver
-trabalhos supervisionados nos tópicos listados acima. É desejável que os candidatos
-tenham experiência em análise de dados e ferramentas computacionais. Os candidatos
-selecionados deverão trabalhar em São Paulo ou Campinas sob a supervisão de um
-dos pesquisadores principais do projeto.
+Outros benefícios: Passagem de ida e volta mais uma parcela de R\$
+7.373,10 como auxílio-instalação (veja regras em
+[http://www.fapesp.br/dc/in14](http://www.fapesp.br/dc/in14))
 
-Candidatos interessados deverão submeter sua aplicação no endereço
-[*stodad@ime.unicamp.br*](mailto:stodad@ime.unicamp.br). O e-mail de aplicação
-deverá conter os seguintes itens:
+Procuramos doutores em Estatística (ou áreas relacionadas) com forte
+potencial para pesquisa supervisionada nos tópicos acima mencionados. É
+desejável que o candidato tenha experiência comprovada em análise de
+dados e computação. O candidato selecionado trabalhará em São Paulo ou
+Campinas sob a supervisão de um dos Pesquisadores Principais do projeto.
 
-(i) Uma carta (em formato pdf) detalhando o histórico acadêmico do candidato,
-    e listando tópicos nos quais o candidato possui interesse em trabalhar,
-    e justifiquem seu interesse e habilidade para desenvolver pesquisa
-    na área escolhida.
+Candidatos interessados deverão inscrever-se por meio do e-mail
+[stodad@ime.unicamp.br](stodad@ime.unicamp.br), e deverão anexar:
 
-(ii) O currículo do candidato (em formato pdf).
+Uma carta (arquivo pdf) explicando o histórico do candidato, em qual
+(quais)tópico(s) gostaria de trabalhar e razões da candidatura.
 
-(iii) Um sumário da sua tese de Doutoramento (em formato pdf) bem como um
-    sumário de duas páginas com suas publicações científicas (em formato pdf).
+CV do candidato (arquivo pdf)
 
-(iv) E-mail e endereço profissional de dois pesquisadores que tenham
-    anteriormente supervisionado ou lecionado cursos ao candidato, e que 
-    estejam dispostos a escrever uma carta de recomendação.
+Resumo da dissertação de doutorado do candidato (arqivo pdf) e um resumo
+(duas páginas) de trabalhos publicados (arquivo pdf).
 
-*See this page in english clicking [here]({{site.pde | relative_url}}).*
+E-mail e endereço postal de dois orientadores/supervisors ou professors
+de disciplinas que possam escrever cartas de recomendação.

@@ -11,7 +11,7 @@ São Paulo
 
 Projeto Temático FAPESP 2018/04654-9
 
-**Importante:** Primeiro *Workshop in Time Series, Wavelets and High Dimensional Data* ocorrerá na Universidade Estadual de Campinas, entre 29 e 30 de agosto, 2019. Mais informações [aqui](workshop1.md)
+**Importante:** Bolsas de pós-doutorado 2021 [aqui]({{site.pd | relative_url}}).
 
 ## Resumo
 
@@ -50,4 +50,8 @@ Veja [Pessoas]({{ site.people | site.url}}).
 
 Veja [Temas de Pesquisa]({{ site.temas | site.url}}).
 
-*Veja esta página em inglês clicando [aqui](index.md).*
+## Eventos Anteriores
+
+Workshop in Time Series, Wavelets and High Dimensional Data* ocorreu na Universidade Estadual de Campinas, entre 29 e 30 de agosto, 2019. Mais informações [aqui](workshop1.md)
+
+*See this page in english clicking [here](index_ENG.md).*

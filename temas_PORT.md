@@ -42,4 +42,4 @@
 
 -   Vigilância Epidemiológica - Novos Modelos e Detecção de Mudanças
 
-*Veja a lista de temas em inglês clicando [aqui](temas_ENG.md).*
+*See this list in english clicking [here](temas_ENG.md).*

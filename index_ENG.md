@@ -11,7 +11,7 @@ São Paulo
 
 Thematic Project FAPESP 2018/04654-9
 
-**News:** 1st Workshop in Time Series, Wavelets and High Dimensional Data at the Universty of Campinas, August 29--30, 2019. More info [here](workshop1.md)
+**Announcement:** Post-doctorate research fellow positions [here]({{site.pd | relative_url}}).
 
 ## Introduction
 
@@ -48,4 +48,8 @@ See [People]({{ site.people | site.url}}).
 
 See [Research Themes]({{ site.temas | site.url}}).
 
-*See this page in portuguese clicking [here](index_PORT.md).*
+## Previous events
+
+Workshop in Time Series, Wavelets and High Dimensional Data happened at the Universty of Campinas, August 29--30, 2019. More info [here](workshop1.md)
+
+*Veja esta página em português clicando [aqui](index.md).*
