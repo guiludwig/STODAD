@@ -13,15 +13,15 @@ Thematic Project FAPESP 2023/02538-0
 
 ## Introduction
 
-This is a webpage for the thematic project *2023/02538-0* entitled **Séries Temporais, Ondaletas, Dados de Alta Dimensão e Aplicações **, from 01/09/2023 to 31/08/2028. 
+This is a webpage for the thematic project *2023/02538-0* entitled **Séries Temporais, Ondaletas, Dados de Alta Dimensão e Aplicações**, from 01/09/2023 to 31/08/2028. 
 
 ## Project Members
 
 See [People]({{ site.people | site.url}}).
 
-## Research
+<!--## Research
 
-See [Research Themes]({{ site.temas | site.url}}).
+See [Research Themes]({{ site.temas | site.url}}).-->
 
 ## Events
 
