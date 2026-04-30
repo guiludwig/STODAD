@@ -73,10 +73,11 @@ Supported by:
 
 ![FAEPEX](img/logo_faepex.jpg)
 
-![UNICAMP](img/logo_unicamp.jpg)-->
+![UNICAMP](img/logo_unicamp.jpg)
 
 <center>
 <img src="https://guiludwig.github.io/STODAD/img/FAPESP.png"><br>
 <img src="https://guiludwig.github.io/STODAD/img/logo_faepex.jpg"><br>
 <img src="https://guiludwig.github.io/STODAD/img/logo_unicamp.jpg"><br>
 </center>
+-->
