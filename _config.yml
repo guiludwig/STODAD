@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Séries Temporais, Ondaletas e Dados de Alta Dimensão
+title: Séries Temporais, Ondaletas, Dados de Alta Dimensão e Aplicações
 email: stodad@ime.unicamp.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Projeto temático FAPESP 2018/04654-9
+  Projeto temático FAPESP 2023/02538-0
 baseurl: "/STODAD" # the subpath of your site, e.g. /blog
 url: "https://guiludwig.github.io"
 people: people
