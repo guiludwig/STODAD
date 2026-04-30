@@ -50,19 +50,19 @@ You can read the invited speakers' presentation abstracts [here](workshop1_abstr
 
 09h10-10h00 ??
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimation of Subgraph Densities in Noisy Networks<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ??<br><br>
 
 10h00-10h50 ??
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A new scope of penalized empirical likelihood with high-dimensional estimating equations<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ??<br><br>
 
 10h50-11h40 ??
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multiple Breakpoint Detection: Mixing Documented and Undocumented Changepoints<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ??<br><br>
 
 11h40-12h30 ??
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noisy matrix completion: Understanding statistical errors of convex relaxation via Nonconvex optimization<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ??<br><br>
 
 12h30 Closing
 
