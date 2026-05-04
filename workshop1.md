@@ -1,10 +1,14 @@
 # Workshop: Time Series, Wavelets and High Dimensional Data
 
-At University of Campinas, September ??, 2026. Seats are limited, so please contact us at stodad@ime.unicamp.br to let us know which days you will attend.
+At University of Campinas, September 10th to 12th, 2026. Seats are limited, so please contact us at stodad@ime.unicamp.br to let us know which days you will attend.
 
-You can read the invited speakers' presentation abstracts [here](workshop1_abstract.pdf).
+If you are interested in presenting, we are still accepting posters mostly; short oral presentations only if time allows them. Please contact stodad@unicamp.br before May 20th, with the presentation title and an one-page abstract (in PDF format).
 
-## Thursday, September ??, 2026
+A timetable will be available soon. These are the confirmed speakers so far: Steve Marron (UNC, Chapel Hill); Boaz Nadler (Weizmann Institute); Chengchu Shi (London School of Economics); Brani Vidakovic (Texas A&M); Eniuce Menezes (UEM); Hedibert Lopes (Insper); Lane Alencar (IME-USP); Marcelo Fernandes (FGV-EEESP); Rafael Izbicki (UFSCar); Raydonal Ospina (UFBA); Rodrigo Targino (FGV-EMAp); Rodney Fonseca (UFBA); e Taiane Prass (UFRGS).
+
+<!--You can read the invited speakers' presentation abstracts [here](workshop1_abstract.pdf).-->
+
+<!--## Thursday, September ??, 2026
 
 13h30 Opening<br><br>
 
@@ -67,7 +71,7 @@ You can read the invited speakers' presentation abstracts [here](workshop1_abstr
 12h30 Closing
 
 <br><br>
-Supported by:
+Supported by:-->
 
 <!--![FAPESP](img/FAPESP.png)
 

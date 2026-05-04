@@ -25,6 +25,6 @@ Veja [Temas de Pesquisa]({{ site.temas | site.url}}).-->
 
 ## Eventos Anteriores
 
-Workshop in Time Series, Wavelets and High Dimensional Data happened at the Universty of Campinas, September ??, 2026. More info [here](workshop1.md)
+Workshop in Time Series, Wavelets and High Dimensional Data happened at the Universty of Campinas, September 10th to 12th, 2026. More info [here](workshop1.md)
 
 *See this page in english clicking [here](index_ENG.md).*
