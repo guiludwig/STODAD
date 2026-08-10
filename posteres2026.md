@@ -1,4 +1,4 @@
-Pôsteres
+Pôsteres 2026
 
 Lucas Perondi Kist (Unicamp) - SAR image preprocessing based on deep learning methods
 
