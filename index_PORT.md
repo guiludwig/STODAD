@@ -9,22 +9,20 @@ layout: default
 **Instituição Sede:** Instituto de Matemática e Estatística, Universidade de
 São Paulo
 
+This is a webpage for the thematic project *2023/02538-0* titled **Séries Temporais, Ondaletas, Dados de Alta Dimensão e Aplicações**, from 01/09/2023 to 31/08/2028. 
+
 Projeto Temático FAPESP 2023/02538-0
 
-## Resumo
-
-This is a webpage for the thematic project *2023/02538-0* titled **Séries Temporais, Ondaletas, Dados de Alta Dimensão e Aplicações**, from 01/09/2023 to 31/08/2028. 
+<!--## Resumo
 
 ## Membros do Projeto
 
 Veja [Pessoas]({{ site.people | site.url}}).
 
-<!--## Pesquisa
+## Pesquisa
 
 Veja [Temas de Pesquisa]({{ site.temas | site.url}}).-->
 
-## Eventos Anteriores
+## Eventos
 
 Workshop in Time Series, Wavelets and High Dimensional Data will happen at the Universty of Campinas, September 10th to 12th, 2026. More info [here](workshop1.md)
-
-*See this page in english clicking [here](index_ENG.md).*
