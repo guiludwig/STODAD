@@ -31,7 +31,7 @@ Informações sobre o evento em [https://www.ime.unicamp.br/~stodad/](https://ww
 * **10h00** Coffee break
 * **10h30** Eniuce Menezes (UEM) -- Unlocking Fractures: Automation and Wavelet Multiscale Analysis in Grid Data ([abstract](2026eniuce.md))
 * **11h15** Rodney Fonseca (UFBA) -- Distributed Sparse Linear Regression under Communication Constraints ([abstract](2026rodney.md))
-* **14h00** J. S. Marron (UNC, Chapel Hill) -- Data Integration Via Analysis of Subspaces (DIVAS) ([abstract](2026marron.md)
+* **14h00** J. S. Marron (UNC, Chapel Hill) -- Data Integration Via Analysis of Subspaces (DIVAS) ([abstract](2026marron.md))
 * **15h00** Rafael Izbicki (UFSCar) -- Statistical Challenges in Uncertainty Quantification for Supervised Learning ([abstract](2026izbicki.md))
 * **15h45** Coffee Break
 * **16h15** Hedibert Lopes (Insper) -- Fast and Slow Level Shifts in Intraday Stochastic Volatility ([abstract](2026hedibert.md))
