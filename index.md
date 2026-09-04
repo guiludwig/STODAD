@@ -40,30 +40,30 @@ Informações sobre o evento em [https://www.ime.unicamp.br/~stodad/](https://ww
 ## Quinta-feira, 10 de Setembro, 2026
 
 * **13h45** Abertura
-* **14h00** Chengchun Shi (LSE)
-* **15h00** Airlane Alencar (IME-USP)
+* **14h00** Chengchun Shi (LSE) -- Demystify LLM reasoning through U-statistics theory ([abstract](2026chengchun.md))
+* **15h00** Airlane Alencar (IME-USP) -- New zero-inflated GARMA model with gamma and inverse Gaussian distributions to analyze rainfall time series ([abstract](2026lane.md))
 * **15h45** Coffee Break
-* **16h15** Raydonal Ospina (UFBA)
-* **17h00** Brani Vidakovic (Texas A\&M)
+* **16h15** Raydonal Ospina (UFBA) -- A Bagging-Based Ensemble Approach for Enhanced 3D Shape Clustering ([abstract](2026raydonal.md))
+* **17h00** Brani Vidakovic (Texas A&M) -- Quantum Wavelet Shrinkage: From Qubits and Wavelet Scaling to Bayesian Attenuation Channels ([abstract](2026brani.md))
 
 ## Sexta-feira, 11 de Setembro, 2026
 
-* **09h00** Boaz Nadler (Weizmann)
+* **09h00** Boaz Nadler (Weizmann) -- Robustness of ML models to sample removals: Theory for OLS, methods and implications ([abstract](2026boaz.md))
 * **10h00** Coffee break
-* **10h30** Eniuce Menezes (UEM)
-* **11h15** Rodney Fonseca (UFBA)
-* **14h00** Steve Marron (UNC, Chapel Hill)
-* **15h00** Rafael Izbicki (UFSCar)
+* **10h30** Eniuce Menezes (UEM) -- Unlocking Fractures: Automation and Wavelet Multiscale Analysis in Grid Data ([abstract](2026eniuce.md))
+* **11h15** Rodney Fonseca (UFBA) -- Distributed Sparse Linear Regression under Communication Constraints ([abstract](2026rodney.md))
+* **14h00** J. S. Marron (UNC, Chapel Hill) -- Data Integration Via Analysis of Subspaces (DIVAS) ([abstract](2026marron.md)
+* **15h00** Rafael Izbicki (UFSCar) -- Statistical Challenges in Uncertainty Quantification for Supervised Learning ([abstract](2026izbicki.md))
 * **15h45** Coffee Break
-* **16h15** Hedibert Lopes (Insper)
-* **17h00** Taiane Prass (UFRGS)
+* **16h15** Hedibert Lopes (Insper) -- Fast and Slow Level Shifts in Intraday Stochastic Volatility ([abstract](2026hedibert.md))
+* **17h00** Taiane Prass (UFRGS) -- Probabilistic Regression Trees Applied to Time Series ([abstract](2026taiane.md))
 * **18h00** Poster Session (participantes em  [*posteres*](posteres2026.md))
 
 ## Sábado, 12 de Setembro, 2026
 
-* **08h30** Flávio Ziegelmann (UFRGS)
-* **09h15** Marcelo Fernandes (FGV-EESP)
-* **10h00** Rodrigo Targino (FGV-EMap)
+* **08h30** Flávio Ziegelmann (UFRGS) -- Detecting Changes in Production Frontiers ([abstract](2026flavio.md))
+* **09h15** Marcelo Fernandes (FGV-EESP) -- Portfolio allocation with transaction costs ([abstract](2026marcelo.md))
+* **10h00** Rodrigo Targino (FGV-EMap) -- Risk-Budgeted Mean Variance Portfolios ([abstract](2026targino.md))
 * **11h00** Encerramento
 
 <br><br>
