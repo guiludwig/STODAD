@@ -1,4 +1,4 @@
-\*\*Quantum Wavelet Shrinkage: From Qubits and Wavelet Scaling to Bayesian Attenuation Channels\*\*
+Quantum Wavelet Shrinkage: From Qubits and Wavelet Scaling to Bayesian Attenuation Channels
 
 
 
@@ -6,7 +6,7 @@ Brani Vidakovic (Texas A\&M University)
 
 
 
-\*\*Abstract:\*\* Wavelet shrinkage is a standard tool of nonparametric denoising and multiscale statistical inference. After an orthogonal wavelet transform, signal structure is often concentrated in a relatively small number of coefficients, while noise is spread across scales and locations. Classical methods exploit this separation by thresholding or smoothly attenuating empirical wavelet coefficients. The same statistical task becomes nontrivial in a quantum computational setting, because orthogonal wavelet transforms are naturally unitary, whereas shrinkage is nonlinear, dissipative, and generally noninvertible.
+Abstract: Wavelet shrinkage is a standard tool of nonparametric denoising and multiscale statistical inference. After an orthogonal wavelet transform, signal structure is often concentrated in a relatively small number of coefficients, while noise is spread across scales and locations. Classical methods exploit this separation by thresholding or smoothly attenuating empirical wavelet coefficients. The same statistical task becomes nontrivial in a quantum computational setting, because orthogonal wavelet transforms are naturally unitary, whereas shrinkage is nonlinear, dissipative, and generally noninvertible.
 
 
 
