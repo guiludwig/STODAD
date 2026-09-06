@@ -51,7 +51,7 @@ Informações sobre o evento em [https://www.ime.unicamp.br/~stodad/](https://ww
 * **09h00** Boaz Nadler (Weizmann) -- Robustness of ML models to sample removals: Theory for OLS, methods and implications ([abstract](2026boaz.md))
 * **10h00** Coffee break
 * **10h30** Eniuce Menezes (UEM) -- Unlocking Fractures: Automation and Wavelet Multiscale Analysis in Grid Data ([abstract](2026eniuce.md))
-* **11h15** Rodney Fonseca (UFBA) -- Distributed Sparse Linear Regression under Communication Constraints ([abstract](2026rodney.md))
+* **11h15** Flávio Ziegelmann (UFRGS) -- Detecting Changes in Production Frontiers ([abstract](2026flavio.md))
 * **14h00** J. S. Marron (UNC, Chapel Hill) -- Data Integration Via Analysis of Subspaces (DIVAS) ([abstract](2026marron.md))
 * **15h00** Rafael Izbicki (UFSCar) -- Statistical Challenges in Uncertainty Quantification for Supervised Learning ([abstract](2026izbicki.md))
 * **15h45** Coffee Break
@@ -61,7 +61,7 @@ Informações sobre o evento em [https://www.ime.unicamp.br/~stodad/](https://ww
 
 ## Sábado, 12 de Setembro, 2026
 
-* **08h30** Flávio Ziegelmann (UFRGS) -- Detecting Changes in Production Frontiers ([abstract](2026flavio.md))
+* **08h30** Rodney Fonseca (UFBA) -- Distributed Sparse Linear Regression under Communication Constraints ([abstract](2026rodney.md))
 * **09h15** Marcelo Fernandes (FGV-EESP) -- Portfolio allocation with transaction costs ([abstract](2026marcelo.md))
 * **10h00** Rodrigo Targino (FGV-EMap) -- Risk-Budgeted Mean Variance Portfolios ([abstract](2026targino.md))
 * **11h00** Encerramento
