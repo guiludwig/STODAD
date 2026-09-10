@@ -16,6 +16,6 @@ Rafaela Dezidério dos Santos Rocha (FEARP-USP) - Contextual Embeddings and Yiel
 
 Pedro Amaral Amorim Oliveira (FEARP-USP) - Deep Factor Momentum: Tactical Portfolio Allocation using Selective State Space Models and Recurrent Networks
 
-Giovanni Barbosa Herrero (Unicamp) - Wavelet-Based Sparse Principal Component Analysis for High-Dimensional Distributed Data
+Giovanni Barbosa Herrero (Unicamp) - Sparse Principal Component Analysis via Wavelets for Distributed Data
 
 Fidel Causil (Unicamp) - Bayesian wavelet shrinkage for low SNR data based on the Epanechnikov kernel
