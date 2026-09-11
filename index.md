@@ -61,10 +61,10 @@ Informações sobre o evento em [https://www.ime.unicamp.br/~stodad/](https://ww
 
 ## Sábado, 12 de Setembro, 2026
 
-* **08h30** Rodney Fonseca (UFBA) -- Distributed Sparse Linear Regression under Communication Constraints ([abstract](2026rodney.md))
-* **09h15** Marcelo Fernandes (FGV-EESP) -- Portfolio allocation with transaction costs ([abstract](2026marcelo.md))
-* **10h00** Rodrigo Targino (FGV-EMap) -- Risk-Budgeted Mean Variance Portfolios ([abstract](2026targino.md))
-* **11h00** Encerramento
+* **09h00** Rodney Fonseca (UFBA) -- Distributed Sparse Linear Regression under Communication Constraints ([abstract](2026rodney.md))
+* **09h45** Marcelo Fernandes (FGV-EESP) -- Estimation risk in conditional expectiles ([abstract](2026marcelo.md))
+* **10h30** Rodrigo Targino (FGV-EMap) -- Risk-Budgeted Mean Variance Portfolios ([abstract](2026targino.md))
+* **11h30** Encerramento
 
 <br><br>
 Supported by:
